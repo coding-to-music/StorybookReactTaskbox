@@ -36,7 +36,7 @@ export const reducer = (state, action) => {
     default:
       return state;
   }
-};
+}; 
 
 // The initial state of our store when the app loads.
 // Usually you would fetch this from a server
