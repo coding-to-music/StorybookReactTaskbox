@@ -11,7 +11,7 @@ exports[`Storyshots InboxScreen Default 1`] = `
       <span
         className="title-wrapper"
       >
-        Taskboxx
+        Taskbox
       </span>
     </h1>
   </nav>
